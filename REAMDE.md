@@ -15,5 +15,5 @@
 ## Indice
 
 - [00_Instalación](./Instalacion.md)
-- [01_Hola_Mundo](./src/01_holaMundo.go)
-- [02_Variables_Constantes_y_ZeroValues](./src/02_var_const_zero.go)
+- [01_Hola_Mundo](./src/01_holaMuando/main.go)
+- [02_Variables_Constantes_y_ZeroValues](./src/02_var_const_zero/main.go)
