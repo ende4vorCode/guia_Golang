@@ -12,6 +12,9 @@
   - Comunidad muy receptiva.
   - Multiplataforma y multi paradigma.
 
+- [Documentación](https://go.dev/doc/)
+- [GO doc](https://pkg.go.dev/)
+
 ## Indice
 
 - [00_Instalación](./Instalacion.md)
@@ -20,3 +23,4 @@
 - [03_Operadores_aritméticos](./src/03_operadores/main.go)
 - [04_Tipos_de_datos](./src/04_Datos/main.go)
 - [05_Paquete_fmt](src/05_paquete_fmt/main.go)
+- [06_Funciones](src/06_funciones/main.go)
